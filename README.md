@@ -28,6 +28,7 @@ Matplotlib (plt) for image visualisation and plotting.
 
 ### Results
 The difference between blurred and unblurred images.
+
 <img src="results/blured.png" alt="blured" width="265"/>
 <img src="results/non-blured.png" alt="non-blured" width="265"/>
 
